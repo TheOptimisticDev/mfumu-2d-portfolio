@@ -15,7 +15,7 @@ Customizable: Easily customize the content and design to match your personal sty
 Responsive Design: Ensures a consistent experience across various screen sizes and devices.
 Optimized Performance: Built with performance in mind to ensure fast loading times.
 
-![A screenshot of the project](./developerportfoliothumbnail.png)
+![A screenshot of the project](./public/2dportfolio.PNG)
 
 # How to run
 
